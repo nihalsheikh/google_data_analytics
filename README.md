@@ -1,7 +1,9 @@
-# Google Data Analytics Specialization Certificates
+# 📜Google Data Analytics Specialization Certificates
+<br>
 
 <details>
   <summary>Course 1: Foundation - Data Data Everywhere</summary>
+  <img src='![Course 1](google_data_analytics/GDA Certificates PDF/Certificate Images/1_Foundation-Data-Data-Everywhere.png)' alt='Course-1'>
 </details>
 
 <br>
